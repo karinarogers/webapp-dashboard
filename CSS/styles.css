@@ -359,9 +359,9 @@ form {
     justify-content: space-between;
 }
 
-input[type="checkbox"] {
+/* input[type="checkbox"] {
     display: none;
-}
+} */
 
 .settings-btns button {
     width: 48%;
