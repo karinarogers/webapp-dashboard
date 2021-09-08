@@ -78,7 +78,7 @@ header {
 }
 
 hr {
-    border: var(--grey) solid 1px;
+    color: var(--grey);
     height: 40px;
 }
 
@@ -110,8 +110,8 @@ h1 {
     padding: 3px;
     border-radius: 50%;
     top: 1%;
-    right: 28%;
-    position: realtive;
+    right: 5%;
+    position: relative;
 }
 
 .round-img {
